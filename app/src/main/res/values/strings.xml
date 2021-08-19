@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UtsavMoviesTMDB</string>
+    <string name="trending">Trending</string>
+    <string name="now_playing">Now playing</string>
+</resources>
